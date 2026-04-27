@@ -14,7 +14,8 @@ Analyze sales data to understand business performance.
 - Sales trends over time
 
 ## Dashboard
-<img width="706" height="719" alt="image" src="https://github.com/user-attachments/assets/04ae3ed6-391a-4741-82c6-b973a346dd1d" />
+<img width="706" height="719" alt="image" src="https://github.com/user-attachments/assets/eb670d73-c664-4a48-a3ef-1096015e4e97" />
+
 
 
 
